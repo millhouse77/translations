@@ -6,7 +6,7 @@ msgstr ""
 
 #: .\caf\cafaudiocodec.cpp
 msgid "[FileType]CAF File"
-msgstr ""
+msgstr "Soubor CAF"
 
 #: .\flac\flacaudiocodec.cpp
 msgid "[FileType]FLAC File"
