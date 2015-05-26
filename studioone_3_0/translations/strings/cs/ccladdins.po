@@ -26,7 +26,7 @@ msgstr "%(1) z %(2)"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]%(1) of %(2) packages already exist on your system."
-msgstr ""
+msgstr "%(1) z %(2) balíčků již existuje ve vašem systému"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager](Developer Mode)"
@@ -34,7 +34,7 @@ msgstr "(režim vývojář)"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager](disabled)"
-msgstr "(zakázat)"
+msgstr "(zakázáno)"
 
 #: .\extensions\contentinstaller.cpp .\extensions\extensionmanager.cpp
 msgid "[Command]Application"
@@ -66,15 +66,15 @@ msgstr ""
 
 #: .\extensions\appupdater.cpp
 msgid "[Updater]Checking version of %(1)"
-msgstr ""
+msgstr "Kontrola verze %(1)"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Claim Product Key"
-msgstr ""
+msgstr "Požadavek na seriové číslo"
 
 #: .\webfs\webfilenodes.cpp
 msgid "[WebFS]Cloud"
-msgstr ""
+msgstr "Cloud"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Copy"
@@ -86,11 +86,11 @@ msgstr ""
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Custom Installation"
-msgstr ""
+msgstr "Vlastní instalace"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Do you want to install the missing packages only?"
-msgstr ""
+msgstr "Chcete instalovat pouze chybějící balíčky?"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager]Do you want to install these updates now?"
@@ -98,7 +98,7 @@ msgstr "Přejete si nyní instalovat tyto aktualizace?"
 
 #: .\web\credentialuiprompt.cpp
 msgid "[Security]Do you want to save the credentials in Windows Vault?"
-msgstr "Přejete si vaše pověření uložit do Windows Valut?"
+msgstr "Přejete si vaše pověření uložit do Windows Vault?"
 
 #: .\web\credentialuiprompt.cpp
 msgid "[Security]Do you want to save the credentials in your keychain?"
@@ -110,7 +110,7 @@ msgstr "Přejete si odinstalovat tato rozšíření?"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager]Do you want to uninstall this Extension?"
-msgstr "Přejete si odinstalovat tato rozšíření?"
+msgstr "Přejete si odinstalovat toto rozšíření?"
 
 #: .\webfs\downloaddraghandler.cpp
 msgid "[WebFS]Download"
@@ -122,7 +122,7 @@ msgstr "Stáhnout"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Download from $APPCOMPANY Account"
-msgstr ""
+msgstr "Stáhnout z účtu $APPCOMPANY"
 
 #: .\webfs\transfermanagerui.cpp
 msgid "[TransferManager]Downloading..."
@@ -138,7 +138,7 @@ msgstr "Nezdařilo se!"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Full Installation"
-msgstr ""
+msgstr "Plná instalace"
 
 #: .\gadgets\gadgetmanager.cpp
 msgid "[GadgetManager]Gadgets"
@@ -150,7 +150,7 @@ msgstr "Nápověda"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Install All"
-msgstr ""
+msgstr "Instalovat vše"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager]Install Extension"
@@ -158,7 +158,7 @@ msgstr "Instalovat rozšíření"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Install Missing"
-msgstr ""
+msgstr "Chybějící instalace"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Command]Installation"
@@ -170,7 +170,7 @@ msgstr "Instalační soubor"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager]Installation canceled!"
-msgstr "Instalace ukončena!"
+msgstr "Instalace zrušena!"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager]Installation failed!"
@@ -182,11 +182,11 @@ msgstr "Instalováno"
 
 #: .\extensions\appupdater.cpp
 msgid "[Updater]Installed version: %(1)"
-msgstr ""
+msgstr "Instalovaná verze: %(1)"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager]Invalid Installation File!"
-msgstr "Neplatný instalační soubor!"
+msgstr "Vadný instalační soubor!"
 
 #: .\webfs\transfermanagerui.cpp
 msgid "[TransferManager]KB/sec"
@@ -202,11 +202,11 @@ msgstr "MB/sec"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Minimal Installation"
-msgstr ""
+msgstr "Minimální instalace"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]My Purchased Items"
-msgstr ""
+msgstr "Moje koupené položky"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager]No Extensions installed."
@@ -222,15 +222,15 @@ msgstr "Nebyly nalezené žádné aktualizace pro vaše rozšíření."
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Package"
-msgstr ""
+msgstr "Balíček"
 
 #: .\webfs\transfermanagerui.cpp
 msgid "[TransferManager]Queued"
-msgstr ""
+msgstr "Ve frontě"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Recommended Installation"
-msgstr ""
+msgstr "Doporučená instalace"
 
 #: .\web\webelements.cpp
 msgid "[Feed]Refresh"
@@ -238,11 +238,11 @@ msgstr "Obnovit"
 
 #: .\webfs\transfermanagerui.cpp
 msgid "[TransferManager]Remove From History"
-msgstr ""
+msgstr "Odstranit z historie"
 
 #: .\extensions\extensionmanager.cpp
 msgid "[ExtensionManager]Removing Extension %(1)..."
-msgstr "Odebírání rozšíření"
+msgstr "Odebírání rozšíření %(1)..."
 
 #: .\webfs\transfermanagerui.cpp
 msgid "[TransferManager]Restart"
@@ -254,11 +254,11 @@ msgstr "Prohledávání rozšíření..."
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager]Signature Verification"
-msgstr ""
+msgstr "Ověření podpisu"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Size"
-msgstr ""
+msgstr "Velikost"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Status"
@@ -266,11 +266,11 @@ msgstr "Stav"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]The installed content will be available next time you start $APPNAME."
-msgstr ""
+msgstr "Instalovaný obsah bude dostupný po přísštím spuštění $APPNAME. "
 
 #: .\extensions\appupdater.cpp
 msgid "[Updater]The version could not be identified!"
-msgstr ""
+msgstr "Verzi se nepodařilo identifikovat!"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager]There are updates available for your Extensions."
@@ -278,7 +278,7 @@ msgstr "Pro vaše rozšíření jsou k dispozici aktualizace."
 
 #: .\extensions\appupdater.cpp
 msgid "[Updater]There is a new version available."
-msgstr ""
+msgstr "Je k dispozici nová verze"
 
 #: .\extensions\extensionmanagerui.cpp
 msgid "[ExtensionManager]This file does not have a valid digital signature."
@@ -294,7 +294,7 @@ msgstr "Aktualizace rozšíření"
 
 #: .\webfs\webfsbrowserextension.cpp
 msgid "[WebFS]Upload To"
-msgstr "Nahrát na"
+msgstr "Nahrát"
 
 #: .\webfs\transfermanagerui.cpp
 msgid "[TransferManager]Uploading..."
@@ -310,9 +310,9 @@ msgstr "Čeká se na aktualizaci"
 
 #: .\extensions\extensionmanager.cpp
 msgid "[ExtensionManager]You need a newer version of $APPNAME."
-msgstr "Potřebujete novou vezi $APPNAME."
+msgstr "Potřebujete novou verzi $APPNAME."
 
 #: .\extensions\appupdater.cpp
 msgid "[Updater]Your version is up-to-date."
-msgstr ""
+msgstr "Vaše verze je aktuální"
 
