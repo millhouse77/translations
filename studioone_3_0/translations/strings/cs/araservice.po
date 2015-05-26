@@ -6,7 +6,7 @@ msgstr ""
 
 #: .\document.cpp
 msgid "[ARA]%(1) is not compatible with %(2). Please check for updates."
-msgstr "%(1) není kompatibilní s %(2). Překontrolujte prosím aktualizace."
+msgstr "%(1) není kompatibilní s %(2). Zkontrolujte prosím aktualizace."
 
 #: .\plugversion.h
 msgid "[ARA]ARA Plug-In Support"
@@ -22,7 +22,7 @@ msgstr "Ukládání %(1)..."
 
 #: .\document.cpp
 msgid "[ARA]Starting %(1) Integration..."
-msgstr "Spouštění začlenění %(1)..."
+msgstr "Spouštění integrace %(1)..."
 
 #: .\plugmain.cpp
 msgid "[ARA]Support for Plug-Ins using the ARA Protocol"
